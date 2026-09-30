@@ -17,5 +17,3 @@
 | 11 | [Cass. ord. 3.8.2026 n. 24407 (Sez. V)](Materiale/Cass%202026%2024407%20%28necessita%20testimonianza%29.pdf) | Prova testimoniale nel processo tributario (art. 7 co. 4 DLgs. 546/92) | Rigetto (contribuente), con condanne ex art. 96 c.p.c. | La testimonianza va motivata sulla sua necessità, non sulla sola idoneità dei capitoli |
 | 12 | [Cass. ord. 24.2.2026 n. 4135 (Sez. V)](Materiale/Cass%202026%204135%20%28dichiarazioni%20di%20terzi%29.pdf) | Dichiarazioni di terzi prodotte dal contribuente | Rigetto (Agenzia) | Valore indiziario: possono provare, con altri elementi, la gratuità di prestazioni professionali |
 | 13 | [Cass. sent. 23.3.2026 n. 6969 (Sez. V)](Materiale/Cass%202026%206969%20%28motivazione%20su%20osservazioni%20respinte%29.pdf) | Contributi pubblici (IVA e IRES); motivazione sulle osservazioni al PVC | Accoglimento con rinvio (Agenzia) | Il contributo è imponibile IVA solo se collegato al prezzo; l'avviso può respingere implicitamente le osservazioni |
-
-*Testi integrali da SentenzeWeb (copie non ufficiali); nei PDF sono evidenziati in giallo i passaggi su cui si fondano le massime.*
