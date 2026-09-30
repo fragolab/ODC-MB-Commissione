@@ -1,0 +1,12 @@
+# Pubblicazione su GitHub: si pubblicano SOLO l'indice e i PDF delle sentenze.
+# Tutto il resto (schede, note di lavoro, altri documenti) resta in locale.
+
+# 1. Escludi tutto
+/*
+
+# 2. Riammetti solo ciò che va pubblicato
+!/.gitignore
+!/index.md
+!/Materiale/
+/Materiale/*
+!/Materiale/*.pdf
