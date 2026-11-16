@@ -1,6 +1,34 @@
 # Rassegna di giurisprudenza e altri documenti
 
 <details open markdown="1">
+<summary><h2>Riunione del 24 novembre 2026</h2></summary>
+
+| # | Pronuncia | Tema | Esito | Rilievo operativo |
+|---|-----------|------|-------|-------------------|
+| 1 | [Cass. ord. 5.10.2026 n. 26234 (Sez. V)](Materiale/Cass%202026%2026234%20%28utili%20extracontabili%20art%2023%20non%20retroattivo%29.pdf) | Utili extracontabili, art. 23 DLgs. 148/2026 | Rigetto (socio) | La nuova disciplina non è interpretativa: non si applica ai periodi pregressi |
+| 2 | [Cass. ord. 11.10.2026 n. 26610 (Sez. V)](Materiale/Cass%202026%2026610%20%28motivazione%20per%20relationem%20PVC%20non%20allegato%29.pdf) | Motivazione per relationem al PVC | Accoglimento con rinvio (Agenzia) | Il PVC richiamato integralmente non va allegato |
+| 3 | [Cass. ord. 12.9.2026 n. 25253 (Sez. V)](Materiale/Cass%202026%2025253%20%28art%207%20comma%205-bis%20inerenza%20fatture%20generiche%29.pdf) | Art. 7 co. 5-bis e inerenza | Rigetto con condanna ex art. 96 (contribuente) | Il 5-bis non sposta l'onere dell'inerenza |
+| 4 | [Cass. ord. 27.3.2026 n. 7386 (Sez. V)](Materiale/Cass%202026%207386%20%28autotutela%20annullamento%20serve%20nuovo%20avviso%29.pdf) | Autotutela e nuova pretesa | Accoglimento e decisione nel merito (contribuente) | Dopo l'annullamento serve un nuovo avviso, non un avviso di pagamento |
+| 5 | [Cass. ord. 10.10.2026 n. 26592 (Sez. V)](Materiale/Cass%202026%2026592%20%28abuso%20del%20diritto%20locazione%20da%20societa%20finanziata%29.pdf) | Abuso del diritto | Accoglimento con rinvio (Agenzia) | La libertà di scelta non copre percorsi non lineari senza ragioni extrafiscali |
+| 6 | [Cass. ord. 18.10.2026 n. 27144 (Sez. V)](Materiale/Cass%202026%2027144%20%28soggettivamente%20inesistenti%20buona%20fede%20e%20struttura%20fornitore%29.pdf) | Operazioni soggettivamente inesistenti | Accoglimento con rinvio (Agenzia) | Due diligence sul fornitore con riscontri oggettivi |
+| 7 | [Cass. ord. 1.10.2026 n. 26027 (Sez. V)](Materiale/Cass%202026%2026027%20%28appalto%20non%20genuino%20e%20somministrazione%20manodopera%29.pdf) | Appalto non genuino e IVA/IRAP | Accoglimento con rinvio (Agenzia) | Conta la genuinità sostanziale, non DURC e certificazioni |
+| 8 | [Cass. ord. 3.9.2026 n. 24972 (Sez. V)](Materiale/Cass%202026%2024972%20%28residenza%20iscrizione%20anagrafica%20e%20quadro%20RW%29.pdf) | Residenza e iscrizione anagrafica | Accoglimento e decisione nel merito (Agenzia) | Fino al 2023 senza cancellazione anagrafica non c'è trasferimento |
+| 9 | [Cass. ord. 14.9.2026 n. 25282 (Sez. V)](Materiale/Cass%202026%2025282%20%28termine%20dilatorio%20e%20verbali%20di%20accesso%20mirato%29.pdf)<br>[Cass. ord. 7.9.2026 n. 25090 (Sez. V)](Materiale/Cass%202026%2025090%20%28verifica%20senza%20PVC%20e%20termine%20dilatorio%29.pdf) | Termine dilatorio e verbali di accesso | Accoglimento con rinvio (contribuenti) | Il PVC non è necessario; conta l'ultimo verbale consegnato |
+| 10 | [Cass. ord. 16.9.2026 n. 25406 (Sez. V)](Materiale/Cass%202026%2025406%20%28dichiarazione%20integrativa%20e%20onere%20della%20prova%29.pdf) | Dichiarazione integrativa | Accoglimento con rinvio (Agenzia) | L'integrativa non è prova: va documentato l'errore |
+| 11 | [Cass. ord. 22.10.2026 n. 27617 (Sez. V)](Materiale/Cass%202026%2027617%20%28conciliazione%20srl%20trasparente%20non%20vincola%20il%20socio%29.pdf) | Conciliazione della srl trasparente | Accoglimento con rinvio (socio) | Il socio può contestare il reddito conciliato dalla società |
+| 12 | [Cass. ord. 19.10.2026 n. 27173 (Sez. V)](Materiale/Cass%202026%2027173%20%28socio%20non%20impugnante%20giudicato%20sociale%20e%20cartella%29.pdf) | Socio non impugnante e cartella | Accoglimento parziale con rinvio (socio) | Giova solo il giudicato favorevole, non la pendenza |
+| 13 | [Corte cost. sent. n. 160/2026](Materiale/Corte%20cost%202026%20160%20%28impugnazione%20ruolo%20e%20cartella%20non%20notificati%20e%20sovraindebitamento%29.pdf) | Impugnazione di ruolo e cartella non notificati | Rigetto interpretativo | Il sovraindebitato può impugnare dall'avvio della fase davanti all'OCC |
+| 14 | [Cass. ord. 19.10.2026 n. 27170 (Sez. V)](Materiale/Cass%202026%2027170%20%28estinzione%20giudizio%20sugli%20avvisi%20e%20decadenza%20art%2025%29.pdf) | Estinzione del giudizio e cartella | Rigetto (Agenzia) | Vale la decadenza dell'art. 25 DPR 602/73, non la prescrizione decennale |
+| 15 | [Cass. ord. 4.11.2026 n. 28437 (Sez. V)](Materiale/Cass%202026%2028437%20%28cartella%2036-bis%20su%20dichiarazione%20non%20presentata%20e%20periculum%29.pdf) | Cartella 36-bis e riscossione anticipata | Rigetto (Agenzia) | La cartella deve motivare il periculum |
+| 16 | [Cass. ord. 30.6.2026 n. 22415 (Sez. V)](Materiale/Cass%202026%2022415%20%28responsabilita%20art%2036%20soci%20di%20societa%20estinta%29.pdf)<br>[Cass. ord. 28.9.2026 n. 25873 (Sez. V)](Materiale/Cass%202026%2025873%20%28competenza%20ufficio%20della%20societa%20per%20atti%20art%2036%29.pdf) | Responsabilità ex art. 36 DPR 602/73 | Accoglimento con rinvio (Agenzia) | Serve un avviso autonomo e motivato dell'ufficio della società |
+| 17 | [Cass. ord. 1.10.2026 n. 26020 (Sez. V)](Materiale/Cass%202026%2026020%20%28visto%20di%20conformita%20irregolare%20e%20credito%20spettante%29.pdf) | Visto di conformità irregolare | Rigetto (Agenzia) | Credito spettante salvo se il controllo non è stato ostacolato (conforme: n. 26394/2026) |
+| 18 | [Cass. ord. 18.10.2026 n. 27121 (Sez. V)](Materiale/Cass%202026%2027121%20%28ravvedimento%20operoso%20irretrattabile%20e%20rimborso%29.pdf) | Ravvedimento e rimborso | Rigetto (contribuente) | Ravvedimento irretrattabile salvo errore essenziale |
+| 19 | [Cass. ord. interl. 2.9.2026 n. 24935 (Sez. V)](Materiale/Cass%202026%2024935%20%28plafond%20compensazioni%20favor%20rei%20rimessione%20SU%29.pdf) | Plafond delle compensazioni e favor rei | Rimessione alle Sezioni Unite | Dedurre lo ius superveniens nei giudizi pendenti |
+| 20 | [Cass. ord. 26.9.2026 n. 25837 (Sez. V)](Materiale/Cass%202026%2025837%20%28patteggiamento%20amministratore%20senza%20effetti%20per%20la%20societa%29.pdf) | Patteggiamento dell'amministratore | Accoglimento parziale con rinvio (società) | Il patteggiamento non vincola il giudizio tributario della società |
+
+</details>
+
+<details open markdown="1">
 <summary><h2>Riunione del 29 settembre 2026</h2></summary>
 
 | # | Pronuncia | Tema | Esito | Rilievo operativo |
