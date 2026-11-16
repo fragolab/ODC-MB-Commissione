@@ -5,7 +5,7 @@
 
 | # | Pronuncia | Tema | Esito | Rilievo operativo |
 |---|-----------|------|-------|-------------------|
-| 1 | [Cass. ord. 5.10.2026 n. 26234 (Sez. V)](Materiale/Cass%202026%2026234%20%28utili%20extracontabili%20art%2023%20non%20retroattivo%29.pdf) | Utili extracontabili, art. 23 DLgs. 148/2026 | Rigetto (socio) | La nuova disciplina non è interpretativa: non si applica ai periodi pregressi |
+| 1 | [Cass. ord. 5.10.2026 n. 26234 (Sez. V)](Materiale/Cass%202026%2026234%20%28utili%20extracontabili%20art%2023%20non%20retroattivo%29.pdf) | Utili extracontabili, art. 23 DLgs. 148/2026 | Rigetto (socio) | La nuova disciplina non è interpretativa e non si applica ai periodi pregressi |
 | 2 | [Cass. ord. 11.10.2026 n. 26610 (Sez. V)](Materiale/Cass%202026%2026610%20%28motivazione%20per%20relationem%20PVC%20non%20allegato%29.pdf) | Motivazione per relationem al PVC | Accoglimento con rinvio (Agenzia) | Il PVC richiamato integralmente non va allegato |
 | 3 | [Cass. ord. 12.9.2026 n. 25253 (Sez. V)](Materiale/Cass%202026%2025253%20%28art%207%20comma%205-bis%20inerenza%20fatture%20generiche%29.pdf) | Art. 7 co. 5-bis e inerenza | Rigetto con condanna ex art. 96 (contribuente) | Il 5-bis non sposta l'onere dell'inerenza |
 | 4 | [Cass. ord. 27.3.2026 n. 7386 (Sez. V)](Materiale/Cass%202026%207386%20%28autotutela%20annullamento%20serve%20nuovo%20avviso%29.pdf) | Autotutela e nuova pretesa | Accoglimento e decisione nel merito (contribuente) | Dopo l'annullamento serve un nuovo avviso, non un avviso di pagamento |
